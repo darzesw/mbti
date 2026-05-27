@@ -259,4 +259,3 @@ st.markdown(
     '<div style="text-align:center; color:#8888aa; font-size:0.85rem; font-style:italic;">🪶 Sapere aude — 감히 알려고 하라. (Kant)</div>',
     unsafe_allow_html=True
 )
-🚀 배포 방법
